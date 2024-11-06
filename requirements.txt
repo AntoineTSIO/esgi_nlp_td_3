@@ -1,0 +1,7 @@
+accelerate
+numpy
+torch
+seqeval
+transformers
+datasets
+evaluate
