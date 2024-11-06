@@ -5,3 +5,4 @@ seqeval
 transformers
 datasets
 evaluate
+python-dotenv
